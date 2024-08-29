@@ -1,2 +1,1 @@
-# mi-portfolio
-Este es mi portfolio hecho en JavaScript, CSS y HTML
+# Proyecto Presupuesto con JavaScript, CSS y HTML
